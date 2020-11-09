@@ -1,8 +1,8 @@
 # About me
 
 - Name: Shinji Miyazato
-- Occupation: SRE
-- Company: [SEN Co.,Ltd.](https://sencorp.co.jp)
+- Occupation: ~SRE~
+- Company: ~[SEN Co.,Ltd.](https://sencorp.co.jp)~
 
 # My GitHub works
 
