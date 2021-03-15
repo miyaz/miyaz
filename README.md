@@ -1,8 +1,8 @@
 # About me
 
 - Name: Shinji Miyazato
-- Occupation: ~SRE~
-- Company: ~[SEN Co.,Ltd.](https://sencorp.co.jp)~
+- Occupation: Cloud Support Engineer
+- Company: [Amazon Web Services Japan K.K.](https://aws.amazon.com/)
 
 # My GitHub works
 
